@@ -23,31 +23,33 @@ https://user-images.githubusercontent.com/72159678/157925726-2672c992-f08f-4f6a-
 ![login](https://user-images.githubusercontent.com/72159678/157927417-c8c171bb-4ce5-456b-9d91-b5d5caef0ffe.PNG)
 
 # User Dashboard
-- The User Dashboard consits of 6 features:
+- The User Dashboard is the main page of the app. It is designed for use by the patient. It contains **5 functions** and **3 features**.
+![user_dashboard](https://user-images.githubusercontent.com/46340124/158010989-64ec3256-fb24-4428-8da1-177a0aa3bdda.png)
 
+- The **5 functions** are:
+1. 🧩Games (to improve memory retention)
+2. ✨Memories (to help them remember their friends and family)
+3. ✔️Reminders (a mini-app for them to add reminders for themselves)
+4. 👨‍👦‍👦Relations (Quickly video call family with the press of One button)
+5. 😄 Make me Happy! (Plays cute and funny videos from around the internet, mostly of cats!)
 
-
+- The **3 features** are:
+1. 💭 Thought of the day (a small postive line to start the day)
+2. 🎭 Rate your Mood (a way for patients to keep track of how they're feeling and increase their self-awareness)
+3. 🖐️ Suggestion (smart suggestions based on how the patient is feeling i.e if it says they are feeling low suggest *watch a video* or *play a game*. If they say they are feeling great then suggest they *speak to family* to make them feel even better).
 
 
 https://user-images.githubusercontent.com/72159678/158110816-10e01e70-abcb-4f24-9c6e-c32ee1a2ae58.mp4
 
 
-
-
-
-
-
-
-
-
 # Care-Taker Dashboard
-- The care-taker dashboard consists of 4 features:
-1. Shows the mood of the user
-2. Shows ally's recommendation
-3. Shows user's to do list and add/delete tasks in it.
-4. Care-taker can enter if the user has taken their medicine and shows how many days until their current medicine last and their next medicine package arrives (not added due to time shortage)
+- The main page of the app for the care-taker. It contains **4 features**.
+![image](https://user-images.githubusercontent.com/46340124/158011178-fe7292f8-6f18-49a7-bcf7-f8c7f88d80f0.png)
 
-
+1. 📈 Shows the mood of the User.
+2. 🙋‍♂️ Shows Ally's recommendation.
+3. 💊 Care-taker can enter if the user has taken their medicine and shows how many days until their current medicine last and their next medicine package arrives (not added due to time shortage)
+4. 📝 Shows User's To-Do List and Add/Delete tasks in it.
 
 https://user-images.githubusercontent.com/72159678/158109832-9f8bd610-7b63-46d3-815d-d895a32e716e.mp4
 
