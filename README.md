@@ -53,6 +53,18 @@ https://user-images.githubusercontent.com/72159678/158110816-10e01e70-abcb-4f24-
 
 https://user-images.githubusercontent.com/72159678/158109832-9f8bd610-7b63-46d3-815d-d895a32e716e.mp4
 
+---
 
+# How to Contribute
+Ally is an Open-Source website. To edit this website and add features, you need to download Ally to your computer and edit it's code. To do that:
+Ally uses HTML, CSS, JavaScript, PHP, and SQL. For PHP and SQL, you need to have XAMPP installed. Make sure you have XAMPP installed from [XAMPP](https://www.apachefriends.org/index.html)
+Then download this folder by pressing the big green button. 
+Extract this folder. 
+Open VSCode and select this folder you've extracted
+Start Editing the code
+When done making changes, close vs code. 
+Go to the project folder in file explorer and open a terminal by right-clicking and selecting command prompt
+Type in `php -S localhost:8000` and press enter.
+Now go to Chrome and and type in localhost:8000. You will see the website.
 
 
