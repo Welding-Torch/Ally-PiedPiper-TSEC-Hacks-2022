@@ -67,4 +67,7 @@ Go to the project folder in file explorer and open a terminal by right-clicking 
 Type in `php -S localhost:8000` and press enter.
 Now go to Chrome and and type in localhost:8000. You will see the website.
 
-
+Features:
+# Crossword
+![image](https://user-images.githubusercontent.com/46340124/171093745-fd567862-b3d1-4902-97bf-083088efee0f.png)
+Fully functional Crossword game made in JavaScript
